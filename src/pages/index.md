@@ -24,7 +24,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Coder Support
-    subtitle: Grid Section Example
+    subtitle: Project Files
     align: center
     grid_items:
       - image: images/logo-1.svg
